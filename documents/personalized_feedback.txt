@@ -1,0 +1,2 @@
+- Grade: 9/10
+- Feedback: Very detailed Markdown explanations and plots, also the evaluation script was a nice touch. The time series train-test splits are not correct for Task 3, neither in the original split nor in the cross-validation loop. Finally, avoid using nested for loops for hyperparameter tuning. Please read the common mistakes document for more information.
